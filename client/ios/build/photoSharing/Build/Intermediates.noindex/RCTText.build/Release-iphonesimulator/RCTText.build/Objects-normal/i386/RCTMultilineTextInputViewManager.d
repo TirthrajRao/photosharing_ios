@@ -1,0 +1,33 @@
+dependencies: \
+  /Users/rao-mac-3/Desktop/photo/client/node_modules/react-native/Libraries/Text/TextInput/Multiline/RCTMultilineTextInputViewManager.m \
+  /Users/rao-mac-3/Desktop/photo/client/node_modules/react-native/Libraries/Text/TextInput/Multiline/RCTMultilineTextInputViewManager.h \
+  /Users/rao-mac-3/Desktop/photo/client/node_modules/react-native/Libraries/Text/TextInput/RCTBaseTextInputViewManager.h \
+  /Users/rao-mac-3/Desktop/photo/client/node_modules/react-native/Libraries/Text/BaseText/RCTBaseTextViewManager.h \
+  /Users/rao-mac-3/Desktop/photo/client/ios/build/photoSharing/Build/Products/Release-iphonesimulator/include/React/RCTViewManager.h \
+  /Users/rao-mac-3/Desktop/photo/client/ios/build/photoSharing/Build/Products/Release-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/rao-mac-3/Desktop/photo/client/ios/build/photoSharing/Build/Products/Release-iphonesimulator/include/React/RCTDefines.h \
+  /Users/rao-mac-3/Desktop/photo/client/ios/build/photoSharing/Build/Products/Release-iphonesimulator/include/React/RCTConvert.h \
+  /Users/rao-mac-3/Desktop/photo/client/ios/build/photoSharing/Build/Products/Release-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/rao-mac-3/Desktop/photo/client/ios/build/photoSharing/Build/Products/Release-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/rao-mac-3/Desktop/photo/client/ios/build/photoSharing/Build/Products/Release-iphonesimulator/include/React/RCTLog.h \
+  /Users/rao-mac-3/Desktop/photo/client/ios/build/photoSharing/Build/Products/Release-iphonesimulator/include/React/RCTAssert.h \
+  /Users/rao-mac-3/Desktop/photo/client/ios/build/photoSharing/Build/Products/Release-iphonesimulator/include/React/RCTUtils.h \
+  /Users/rao-mac-3/Desktop/photo/client/ios/build/photoSharing/Build/Products/Release-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/rao-mac-3/Desktop/photo/client/ios/build/photoSharing/Build/Products/Release-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/rao-mac-3/Desktop/photo/client/ios/build/photoSharing/Build/Products/Release-iphonesimulator/include/yoga/Yoga.h \
+  /Users/rao-mac-3/Desktop/photo/client/ios/build/photoSharing/Build/Products/Release-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/rao-mac-3/Desktop/photo/client/ios/build/photoSharing/Build/Products/Release-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/rao-mac-3/Desktop/photo/client/ios/build/photoSharing/Build/Products/Release-iphonesimulator/include/yoga/YGValue.h \
+  /Users/rao-mac-3/Desktop/photo/client/ios/build/photoSharing/Build/Products/Release-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/rao-mac-3/Desktop/photo/client/ios/build/photoSharing/Build/Products/Release-iphonesimulator/include/React/RCTBridge.h \
+  /Users/rao-mac-3/Desktop/photo/client/ios/build/photoSharing/Build/Products/Release-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/rao-mac-3/Desktop/photo/client/ios/build/photoSharing/Build/Products/Release-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/rao-mac-3/Desktop/photo/client/ios/build/photoSharing/Build/Products/Release-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/rao-mac-3/Desktop/photo/client/ios/build/photoSharing/Build/Products/Release-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/rao-mac-3/Desktop/photo/client/ios/build/photoSharing/Build/Products/Release-iphonesimulator/include/React/UIView+React.h \
+  /Users/rao-mac-3/Desktop/photo/client/ios/build/photoSharing/Build/Products/Release-iphonesimulator/include/React/RCTComponent.h \
+  /Users/rao-mac-3/Desktop/photo/client/node_modules/react-native/Libraries/Text/TextInput/Multiline/RCTMultilineTextInputView.h \
+  /Users/rao-mac-3/Desktop/photo/client/node_modules/react-native/Libraries/Text/TextInput/RCTBaseTextInputView.h \
+  /Users/rao-mac-3/Desktop/photo/client/ios/build/photoSharing/Build/Products/Release-iphonesimulator/include/React/RCTView.h \
+  /Users/rao-mac-3/Desktop/photo/client/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputDelegate.h \
+  /Users/rao-mac-3/Desktop/photo/client/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputViewProtocol.h
